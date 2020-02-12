@@ -19,10 +19,8 @@ class Header extends React.Component {
                     <div className="col-md-8">
                         <div className="topbar-right text-center text-md-right">
                             <ul className="list-inline">
-                                <li><a href="#"> Check your rankings anytime anywhere </a> </li>
-                                <li><a href="#"> Register for FREE!</a></li>
-                                <li><a href="#"> Support & FAQ</a></li>
-                                <li><a href="#">Login </a></li>
+                                <li><a href="#"> Área do Cliente</a></li>
+                                <li><a href="#">FAQ </a></li>
                             </ul>
                         </div>
                     </div>
@@ -96,7 +94,7 @@ class Header extends React.Component {
 
                                     <li className="active"><a href="#">Home</a></li>
 
-                                    <li><a href="javascript:void(0)">Sistemas <i className="fa fa-angle-down fa-indicator"></i></a>
+                                    <li><a href="#">Sistemas <i className="fa fa-angle-down fa-indicator"></i></a>
 
                                         <div className="drop-down menu-bg grid-col-12">
                                             
@@ -153,25 +151,15 @@ class Header extends React.Component {
                                         </div>
                                     </li>
 
-                                    <li><a href="javascript:void(0)">Serviços <i className="fa fa-angle-down fa-indicator"></i></a>
-
-                                        <ul className="drop-down-multilevel">
-                                            <li><a href="case-studies-2-columns.html">case studies 2 columns</a></li>
-                                            <li><a href="case-studies-3-columns.html">case studies 3 columns</a></li>
-                                            <li><a href="case-studies-4-columns.html">case studies 4 columns</a></li>
-                                            <li><a href="case-studies-filter.html">case studies filter</a></li>
-                                            <li><a href="case-studies-full-screen.html">case studies full screen</a></li>
-                                            <li><a href="case-studies-single.html">case studies single</a></li>
-                                        </ul>
-                                    </li>
-                                                                       
-                                    <li><a href="#"> Consultoria</a></li>
+                                    <li><a href="#services">Serviços</a></li>
                                     
-                                    <li><a href="#"> Sobre</a></li>
+                                    <li><a href="#about-us">Sobre</a></li>
 
-                                    <li><a href="#">Blog </a></li>
+                                    <li><a href="#blog">Blog </a></li>
 
-									<li><a href="#"> Contato </a>
+                                    <li><a href="#clients">Clientes </a></li>
+
+									<li><a href="#contact"> Contato </a>
 
                                         <ul className="drop-down-multilevel">
                                             <li><a href="contact-single-office.html">contact single office </a></li>

@@ -161,7 +161,7 @@ class Footer extends React.Component {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                         <div className="text-right">
-                            <p>Copyright © 2017 SEO Solution. All Rights Reserved.</p>
+                            <p>Copyright © 2017 MzTech - Segurança e Tecnologia. Todos os Direitos Reservados.</p>
                         </div>
                     </div>
                 </div>

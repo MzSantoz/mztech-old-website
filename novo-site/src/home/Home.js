@@ -80,36 +80,36 @@ class App extends React.Component {
                     <img src="revolution/assets/1cf5f-21.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" className="rev-slidebg" data-no-retina/>
 
 
-                    <div className="tp-caption   tp-resizeme" id="slide-49-layer-4" data-x="70" data-y="center" data-voffset="-100" data-width="['auto']" data-height="['171']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"split":"chars","splitdelay":0.05,"speed":1990,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style={{zIndex: '5', minWidth: 759, maxWidth: 759, maxWidth: 171, maxWidth: 171, whiteSpace: 'nowrap', fontSize: 74, lineHeight: 82, fontWeight: 900, color: 'rgba(32, 70, 242, 1.00)', fontFamily: 'Poppins sans-serif' , }}>The SEO company
+                    <div className="tp-caption   tp-resizeme" id="slide-49-layer-4" data-x="70" data-y="center" data-voffset="-100" data-width="['auto']" data-height="['171']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"split":"chars","splitdelay":0.05,"speed":1990,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style={{zIndex: '5', minWidth: 759, maxWidth: 171, whiteSpace: 'nowrap', fontSize: 74, lineHeight: 82, fontWeight: 900, color: 'rgba(32, 70, 242, 1.00)', fontFamily: 'Poppins sans-serif' , }}>The SEO company
                         <br/>you can’t live without </div>
                    
                     
-                    <div className="tp-caption rev-btn button tp-resizeme" id="slide-49-layer-7" data-x="70" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":3670,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>SEO Prices </div>
+                    <div className="tp-caption rev-btn button tp-resizeme" id="slide-49-layer-7" data-x="70" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":3670,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>SEO Prices </div>
                     
-                    <div className="tp-caption rev-btn  tp-resizeme button black rev-left-slide-btn" id="slide-49-layer-8" data-x="231" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":3670,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>Free E-Book </div>
+                    <div className="tp-caption rev-btn  tp-resizeme button black rev-left-slide-btn" id="slide-49-layer-8" data-x="231" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":3670,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>Free E-Book </div>
                 </li>
                 
                 <li data-index="rs-50" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-thumb="revolution/assets/100x50_29a7f-20.jpg" data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     
                     <img src="revolution/assets/29a7f-20.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" className="rev-slidebg" data-no-retina/>
                     
-                    <div className="tp-caption   tp-resizeme" id="slide-50-layer-4" data-x="center" data-hoffset="" data-y="center" data-voffset="-50" data-width="['auto']" data-height="['174']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":520,"split":"chars","splitdelay":0.05,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style= {{ zIndex: '5', minwidth: 629, maxWidth: 629, maxWidth: 174, maxWidth: 174, whiteSpace: 'nowrap', fontSize: 74, lineHeight: 82, fontWeight: 900, color: 'rgba(255, 255, 255, 1.00)', fontFamily: 'Poppins sans-serif', }}>Boost Your Traffic<br />using our tools</div>
+                    <div className="tp-caption   tp-resizeme" id="slide-50-layer-4" data-x="center" data-hoffset="" data-y="center" data-voffset="-50" data-width="['auto']" data-height="['174']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":520,"split":"chars","splitdelay":0.05,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style= {{ zIndex: '5', minwidth: 629, maxWidth: 174,  whiteSpace: 'nowrap', fontSize: 74, lineHeight: 82, fontWeight: 900, color: 'rgba(255, 255, 255, 1.00)', fontFamily: 'Poppins sans-serif', }}>Boost Your Traffic<br />using our tools</div>
                     
-                    <div className="tp-caption rev-btn button tp-resizeme rev-left-button" id="slide-50-layer-7" data-x="center" data-hoffset="-80" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2250,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>SEO Prices </div>
+                    <div className="tp-caption rev-btn button tp-resizeme rev-left-button" id="slide-50-layer-7" data-x="center" data-hoffset="-80" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2250,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>SEO Prices </div>
                     
-                    <div className="tp-caption rev-btn  tp-resizeme button black rev-right-button" id="slide-50-layer-8" data-x="center" data-hoffset="80" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2250,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>Free E-Book </div>
+                    <div className="tp-caption rev-btn  tp-resizeme button black rev-right-button" id="slide-50-layer-8" data-x="center" data-hoffset="80" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2250,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>Free E-Book </div>
                 </li>
                 
                 <li data-index="rs-51" data-transition="random-static,random-premium,random" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-randomtransition="on" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-thumb="revolution/assets/100x50_72bde-10.jpg" data-rotate="0,0,0,0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     
                     <img src="revolution/assets/72bde-10.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" className="rev-slidebg" data-no-retina/>
                     
-                    <div className="tp-caption   tp-resizeme" id="slide-51-layer-4" data-x="right" data-hoffset="50" data-y="center" data-voffset="-100" data-width="['auto']" data-height="['172']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['right','right','right','right']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style={{ zIndex: '5', minWidth: 851, maxWidth: 851, maxWidth: 172, maxWidth: 172, whiteSpace: 'nowrap', fontSize: 74, lineHeight: 82, fontWeight: 900, color: 'rgba(32, 70, 242, 1.00)', fontFamily: 'Poppins sans-serif',}}>We Are Experts On the<br/>Application Development </div>
+                    <div className="tp-caption   tp-resizeme" id="slide-51-layer-4" data-x="right" data-hoffset="50" data-y="center" data-voffset="-100" data-width="['auto']" data-height="['172']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['right','right','right','right']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style={{ zIndex: '5', minWidth: 851, maxWidth: 172, whiteSpace: 'nowrap', fontSize: 74, lineHeight: 82, fontWeight: 900, color: 'rgba(32, 70, 242, 1.00)', fontFamily: 'Poppins sans-serif',}}>We Are Experts On the<br/>Application Development </div>
 
                     
-                    <div className="tp-caption rev-btn button tp-resizeme rev-right-slide-btn" id="slide-51-layer-7" data-x="right" data-hoffset="220" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":3370,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>SEO Prices </div>
+                    <div className="tp-caption rev-btn button tp-resizeme rev-right-slide-btn" id="slide-51-layer-7" data-x="right" data-hoffset="220" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":3370,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>SEO Prices </div>
                     
-                    <div className="tp-caption rev-btn  tp-resizeme button black" id="slide-51-layer-8" data-x="right" data-hoffset="50" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2660,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>Free E-Book </div>
+                    <div className="tp-caption rev-btn  tp-resizeme button black" id="slide-51-layer-8" data-x="right" data-hoffset="50" data-y="center" data-voffset="30" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":2660,"speed":1000,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style={{ cursor: 'pointer' }}>Free E-Book </div>
                 </li>
             </ul>
             <div className="tp-bannertimer tp-bottom" style={{visibility: 'hidden !important'}}></div>
@@ -122,18 +122,18 @@ class App extends React.Component {
             <div className="row justify-content-center">
                 <div className="col-lg-8 col-md-12 text-center">
                     <div className="newsletter-info">
-                        <h4 className="text-white mb-3">Subscribe to our Newsletter</h4>
-                        <p className="mb-4 text-white">Sign up for new Seosignt content, updates, surveys & offers. Fusce commodo tincidunt convallis.Nunc at purus vitae nisl sagittis gravida ut sit amet diam. </p>
+                        <h2 className="text-white mb-3">Registre seu domínio</h2>
+                        <h4 className="mb-4 text-white">Descubra as opções pesquisando no campo logo abaixo. </h4>
                     </div>
                     <form className="form-inline d-inline">
                         <div className="row">
-                            <div className="col-md-8 col-sm-8">
+                            <div className="col-md-10 col-sm-10">
                                 <div className="form-group">
-                                    <input type="text" className="form-control" id="inputPassword2" placeholder="Enter your email address..."/>
+                                    <input type="text" className="form-control" id="inputSearchDomain" placeholder="Encontre seu domínio perfeito"/>
                                 </div>
                             </div>
-                            <div className="col-md-4 col-sm-4 text-center text-md-left">
-                                <a className="button border-white" href="#">Subscribe now</a>
+                            <div className="col-md-2 col-sm-2 text-center text-md-left">
+                                <a className="button border-white" href="https://affiliates.a2hosting.com/scripts/click.php?aid=mzsantoz&desturl=https%3A%2F%2Fmy.a2hosting.com%2Fcart.php%3Fa%3Dadd%26sld%3Descritorionovo%26domain%3Dregister%26language%3Dportuguese-br&cid=11111111">Pesquisar</a>
                             </div>
                         </div>
                     </form>
@@ -143,13 +143,13 @@ class App extends React.Component {
     </section>
 
 
-    <section className="welcome-01 page-section-ptb">
+    <section className="welcome-01 page-section-ptb" id="services">
         <div className="container">
             <div className="row">
                 <div className="col-md-12">
                     <div className="section-title text-center">
-                        <span>we ARE seohUB AND</span>
-                        <h3 className="text-center">We provide high quality services</h3>
+                        <span>Nossos Serviços</span>
+                        <h3 className="text-center">Na medida para sua empresa</h3>
                     </div>
                 </div>
                 <div className="col-md-4">
@@ -158,8 +158,8 @@ class App extends React.Component {
                             <img className="img-fluid" src="images/icon/04.png" alt=""/>
                         </div>
                         <div className="feature-box-info mt-2">
-                            <h5 className="mb-2 mt-4">Seo Optimization</h5>
-                            <p>Rerum ea dolores lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa omnis ad vero aperiam, atque unde, assumenda illum.</p>
+                            <h5 className="mb-2 mt-4">Projetos</h5>
+                            <p>Desenvolvemos projetos de infraestrutura de T.I de acordo com as especificidades do seu negócio, dentro do orçamento e prazos específicados.</p>
                         </div>
                     </div>
                 </div>
@@ -169,8 +169,8 @@ class App extends React.Component {
                             <img className="img-fluid" src="images/icon/05.png" alt=""/>
                         </div>
                         <div className="feature-box-info mt-2">
-                            <h5 className="mb-2 mt-4">Content Submission</h5>
-                            <p>Atque unde, assumenda illum rerum ea dolores lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa omnis ad vero aperiam.</p>
+                            <h5 className="mb-2 mt-4">Consultoria</h5>
+                            <p>Prestamos consultoria de T.I para empreendedores que tem uma idéia, mas não sabem o que é preciso para fazer o projeto sair do papel.</p>
                         </div>
                     </div>
                 </div>
@@ -180,8 +180,8 @@ class App extends React.Component {
                             <img className="img-fluid" src="images/icon/18.png" alt=""/>
                         </div>
                         <div className="feature-box-info mt-2">
-                            <h5 className="mb-2 mt-4">Real-Time Analytics</h5>
-                            <p>Culpa omnis ad vero aperiam atque unde, assumenda illum rerum ea dolores lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                            <h5 className="mb-2 mt-4">Outosourcing de Mão de Obra</h5>
+                            <p>Fornecemos mão de obra em T.I de qualidade para ficar a sua disposição nas dependências de sua empresa ou remotamente. </p>
                         </div>
                     </div>
                 </div>
@@ -191,8 +191,8 @@ class App extends React.Component {
                             <img className="img-fluid" src="images/icon/07.png" alt=""/>
                         </div>
                         <div className="feature-box-info mt-2">
-                            <h5 className="mb-2 mt-4">REPUTATION MANAGEMENT</h5>
-                            <p>Consectetur adipisicing elit culpa omnis ad vero aperiam atque unde, assumenda illum rerum ea dolores lorem ipsum dolor sit amet.</p>
+                            <h5 className="mb-2 mt-4">Gerenciamento de Mídias Sociais</h5>
+                            <p>Criação de conteúdo, planejamento de mídias sociais e marketing digital para pessoas e empresas que queiram se descatar na internet.</p>
                         </div>
                     </div>
                 </div>
@@ -202,8 +202,8 @@ class App extends React.Component {
                             <img className="img-fluid" src="images/icon/08.png" alt=""/>
                         </div>
                         <div className="feature-box-info mt-2">
-                            <h5 className="mb-2 mt-4">100% White Hat Ethics</h5>
-                            <p>Consectetur adipisicing elit culpa omnis ad vero aperiam atque unde, assumenda illum rerum ea dolores lorem ipsum dolor sit amet.</p>
+                            <h5 className="mb-2 mt-4">Estrutura de Vendas Online</h5>
+                            <p>Criação de estruturas de vendas completas para você começar a faturar pela internet, seja para um produto físico ou para infoprodutos.</p>
                         </div>
                     </div>
                 </div>
@@ -213,15 +213,18 @@ class App extends React.Component {
                             <img className="img-fluid" src="images/icon/09.png" alt=""/>
                         </div>
                         <div className="feature-box-info mt-2">
-                            <h5 className="mb-2 mt-4">USA Based SEO Company</h5>
-                            <p>Rerum ea dolores lorem ipsum dolor sit amet consectetur adipisicing elit culpa omnis ad vero aperiam atque unde, assumenda illum.</p>
+                            <h5 className="mb-2 mt-4">Segurança da Informação</h5>
+                            <p>Avaliação de segurança da informação abordando as melhores práticas do mercado com foco em gerenciamento de riscos e compliance.</p>
                         </div>
                     </div>
                 </div>
                 <div className="col-md-12 text-center">
+                    <div className="section-title text-center">
+                        <h3 className="text-center">FICOU ALGUMA DÚVIDA?</h3>
+                        <h5 className="text-center">Clique no botão abaixo e fale agora com um de nossos consultores</h5>
+                    </div>
                     <div className="btn-group d-inline-block">
-                        <a className="button" href="#">SEE ALL FEATURES</a>
-                        <a className="button border-black" href="#">GET STARTED NOW!</a>
+                        <a className="button btn-lg" href="#"><i className="fa fa-whatsapp" aria-hidden="true"></i> Falar com um dos consultores</a>
                     </div>
                 </div>
             </div>
@@ -229,7 +232,7 @@ class App extends React.Component {
     </section>
 
 
-<section className="our-story popup-gallery bg" style={{ background: 'url(images/bg/02.jpg)' }}>
+<section className="our-story popup-gallery bg" style={{ background: 'url(images/bg/02.jpg)' }} id="about-us">
         <div className="container-fluid">
             <div className="row no-gutter text-center">
                 <div className="col-lg-6 col-md-12 align-self-center">
@@ -239,13 +242,12 @@ class App extends React.Component {
                 </div>
                 <div className="col-lg-6 col-md-12 p-0">
                     <div className="our-story-content text-left blue-bg">
-                        <h2 className="text-white mb-2">our story</h2>
-                        <span className="mb-2 text-white">Standard dummy lorem Ipsum has been the industry's text ever since the 1500s, when an unknown printer</span>
-                        <p className="mb-2 text-white">Typesetting industry lorem Ipsum is simply dummy text of the printing and. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        <h2 className="text-white mb-2">um pouco sobre nós</h2>
+                        <span className="mb-2 text-white">Uma startup criada pensando em transformar negócios em soluções.</span>
+                        <p className="mb-2 text-white">A MzTech foi criada pensando em fornecer o melhor da tecnologia no menor custo possível para empreenderoes iniciantes que tinham um ótimo produto, mas que ainda não o viam como uma solução para o mercado em que atuavam.
                             <br />
-                            <br /> Type specimen book.when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            <br /> Por esse motivo, fornecemos toda a base tecnológica necessária para empreenderes focarem em negócios, e deixarem a tecnologia necessária para a mágica acontecer conosco.
                         </p>
-                        <img className="img-fluid" alt="" src="images/signature.png"/>
                     </div>
                 </div>
             </div>
@@ -253,13 +255,13 @@ class App extends React.Component {
     </section>
 
 
-    <section className="our-blog page-section-ptb">
+    <section className="our-blog page-section-ptb" id="blog">
         <div className="container">
             <div className="row">
                 <div className="col-md-12">
                     <div className="section-title text-center">
-                        <span>News from bookmarks</span>
-                        <h3 className="text-center">Latest News From Blog</h3>
+                        <span>#escritoriodecasa</span>
+                        <h3 className="text-center">Últimas notícias no blog</h3>
                     </div>
                 </div>
             </div>
@@ -446,7 +448,7 @@ class App extends React.Component {
     </section>
 
 
-    <section className="testimonial page-section-ptb blue-bg">
+    <section className="testimonial page-section-ptb blue-bg" id="clients">
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-md-12">
@@ -497,179 +499,6 @@ class App extends React.Component {
             </div>
         </div>
     </section>
-
-
-    <section className="all-feature page-section-ptb sec-relative">
-        <div className="side-content-image">
-            <img className="img-fluid center-block" src="images/bg-element/04.png" alt=""/>
-        </div>
-        <div className="container">
-            <div className="row">
-                <div className="col-md-12">
-                    <div className="section-title text-center">
-                        <span>features that you need</span>
-                        <h3 className="text-center">All your website needs</h3>
-                    </div>
-                </div>
-                <div className="col-lg-4 col-md-6">
-                    <div className="feature-box-02 right mt-5 mb-8 text-left text-md-right">
-                        <div className="icon">
-                            <i className="ti-rocket"></i>
-                        </div>
-                        <div className="info">
-                            <h5 className="mb-1">Seo Optimization</h5>
-                            <p>Quas magnam lorem ipsum dolor sit amet, consectetur adipisicing elit.veniam temporibus fugit, velit iusto Iure, fuga, ipsum!</p>
-                        </div>
-                    </div>
-                    <div className="feature-box-02 right mb-8 text-left text-md-right">
-                        <div className="icon">
-                            <i className="ti-wallet"></i>
-                        </div>
-                        <div className="info">
-                            <h5 className="mb-1">Pay Per Click</h5>
-                            <p>Velit iusto Iure, fuga, ipsum! quas magnam lorem ipsum dolor sit amet, consectetur adipisicing elit.veniam temporibus fugit. </p>
-                        </div>
-                    </div>
-                    <div className="feature-box-02 right text-left text-md-right">
-                        <div className="icon">
-                            <i className="ti-layers"></i>
-                        </div>
-                        <div className="info">
-                            <h5 className="mb-1">App Devolepmanet</h5>
-                            <p>Veniam temporibus fugit velit iusto Iure, fuga, ipsum! quas magnam lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-sm-4 col-md-4 d-none d-lg-block">
-                    <img src="images/device/04.png" className="img-fluid center-block" alt=""/>
-                </div>
-                <div className="col-lg-4 col-md-6">
-                    <div className="feature-box-02 mt-5 mb-8 text-left">
-                        <div className="icon">
-                            <i className="ti-dashboard"></i>
-                        </div>
-                        <div className="info">
-                            <h5 className="mb-1">Social Media</h5>
-                            <p>Consectetur adipisicing elit. veniam temporibus fugit velit iusto Iure, fuga, ipsum! quas magnam lorem ipsum dolor sit amet. </p>
-                        </div>
-                    </div>
-                    <div className="feature-box-02 mb-8 text-left">
-                        <div className="icon">
-                            <i className="ti-receipt"></i>
-                        </div>
-                        <div className="info">
-                            <h5 className="mb-1">Email Marketing</h5>
-                            <p>Fuga, ipsum! quas magnam consectetur adipisicing elit. veniam temporibus fugit velit iusto lorem ipsum dolor sit amet iure. </p>
-                        </div>
-                    </div>
-                    <div className="feature-box-02 text-left">
-                        <div className="icon">
-                            <i className="ti-bar-chart"></i>
-                        </div>
-                        <div className="info">
-                            <h5 className="mb-1">We Analysis</h5>
-                            <p>Magnam fuga, ipsum! quas consectetur adipisicing elit. veniam temporibus fugit lorem ipsum dolor sit amet velit iusto Iure. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section className="counter page-section-ptb bg fixed bg-overlay-black-80" style={{ background: 'url(images/bg/02.jpg)' }}>
-        <div className="container">
-            <div className="row">
-                <div className="col-lg-3 col-md-6 text-center">
-                    <div className="counter-block">
-                        <span className="ti-cloud-up"></span>
-                        <b className="timer mt-3 mb-3" data-to="3968" data-speed="10000"></b>
-                        <h6 className="text-white">Ordered Coffee's</h6>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6 text-center">
-                    <div className="counter-block">
-                        <span className="ti-bar-chart"></span>
-                        <b className="timer mt-3 mb-3" data-to="5568" data-speed="10000"></b>
-                        <h6 className="text-white">Questions Answered</h6>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6 text-center">
-                    <div className="counter-block">
-                        <span className="ti-panel"></span>
-                        <b className="timer mt-3 mb-3" data-to="8908" data-speed="10000"></b>
-                        <h6 className="text-white">Completed Projects</h6>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6 text-center">
-                    <div className="counter-block">
-                        <span className="ti-shield"></span>
-                        <b className="timer mt-3 mb-3" data-to="9968" data-speed="10000"></b>
-                        <h6 className="text-white">Happy Clients</h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section className="working-process page-section-ptb" style={{ background: 'url(images/bg-element/05.png) no-repeat left bottom' }}>
-        <div className="container">
-            <div className="row">
-                <div className="col-md-12">
-                    <div className="section-title text-center">
-                        <span>Steps for you success</span>
-                        <h3 className="text-center">OUR WORKING PROCESS</h3>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6">
-                    <div className="feature-box-01 round text-center">
-                        <div className="feature-box-img mb-2">
-                            <img className="img-fluid center-block" src="images/icon/04.png" alt=""/>
-                        </div>
-                        <div className="feature-box-info mt-2">
-                            <h6 className="text-blue mb-2">Sketch & Design</h6>
-                            <p>Consectetur adipisicing elit, sed lorem ipsum dolor sit amet, do eiusmod tempor ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6">
-                    <div className="feature-box-01 round text-center">
-                        <div className="feature-box-img mb-2">
-                            <img className="img-fluid center-block" src="images/icon/05.png" alt=""/>
-                        </div>
-                        <div className="feature-box-info mt-2">
-                            <h6 className="text-blue mb-2">Creative Process</h6>
-                            <p>Sit amet, do consectetur adipisicing elit, sed lorem ipsum dolor eiusmod tempor ut labore et dolore magna.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6">
-                    <div className="feature-box-01 round text-center">
-                        <div className="feature-box-img mb-2">
-                            <img className="img-fluid center-block" src="images/icon/06.png" alt=""/>
-                        </div>
-                        <div className="feature-box-info mt-2">
-                            <h6 className="text-blue mb-2">Development</h6>
-                            <p>Labore et dolore magna sit amet, do consectetur adipisicing elit, sed lorem ipsum dolor eiusmod tempor ut.</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-6">
-                    <div className="feature-box-01 round text-center">
-                        <div className="feature-box-img mb-2">
-                            <img className="img-fluid center-block" src="images/icon/07.png" alt=""/>
-                        </div>
-                        <div className="feature-box-info mt-2">
-                            <h6 className="text-blue mb-2">Final Product</h6>
-                            <p>Eiusmod tempor labore et dolore magna sit amet, do consectetur adipisicing elit, sed lorem ipsum dolort.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
 
     <section className="our-clients blue-bg">
         <div className="container">
