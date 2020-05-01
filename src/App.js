@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Route, Switch, withRouter } from 'react-router-dom';
 import Home from './components/Home';
 import Obrigado from './components/Obrigado';
+import NotFound from './components/NotFound';
 
 
 class App extends Component {
@@ -30,6 +31,7 @@ class App extends Component {
       <div className="app">
         <Switch location={isModal ? this.previousLocation : location}>
           <Route exact path="/" component={Home} />
+          <Route exact path="*" component={NotFound}></Route>
           <Route exact path="/obrigado"><Obrigado isModal={isModal}/></Route>
         </Switch>
         {isModal

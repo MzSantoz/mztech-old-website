@@ -21,6 +21,8 @@ class Obrigado extends React.Component{
         window.location.assign(link)
     }
     render(){
+        let date = new Date()
+        date = date.getFullYear()
         return(
             <>
             <Modal size="lg"
@@ -38,21 +40,7 @@ class Obrigado extends React.Component{
                         </div>
                     </ModalBody>
                     <ModalFooter>
-                    <div className="social">
-                                <h6>Siga nossas redes</h6>
-                                <ul>
-                                    <li>
-                                        <a href="https://facebook.com/mztechtr" target="_blank" rel="noopener noreferrer"> <i className="fa fa-facebook"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://instagram.com/mztech.tr" target="_blank" rel="noopener noreferrer"> <i className="fa fa-instagram"></i> </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/company/mztechtr/" target="_blank" rel="noopener noreferrer"> <i className="fa fa-linkedin"></i> </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        <span onClick={this.returnHomePage}><i className="ti-close"></i></span>
+                            <span onClick={this.returnHomePage}><i className="ti-close"></i></span>
                     </ModalFooter>
             </Modal>
           </>
