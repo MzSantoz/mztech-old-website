@@ -40,6 +40,13 @@
 	<!-- Responsive style -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css" />
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-547R7BJ');</script>
+  <!-- End Google Tag Manager -->
 
     <!--
       manifest.json provides metadata used when your web app is installed on a
@@ -59,6 +66,10 @@
   </head>
   <body>
     <noscript>Você precisa habilitar JavaScript para visualizar esse site.</noscript>
+    <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-547R7BJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <div id="root"></div>
     <!--
       This HTML file is a template.
@@ -112,8 +123,13 @@
     <!-- custom -->
     <script type="text/javascript" src="js/custom.js"></script>
 
- 
+    <!-- MailChimp Connector-->
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a6044c7872e4946a687f40435/1f44b720f8e4246c901e1e6a7.js");</script>
     
+    <!-- PureChat API-->
+    <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'fe24f9c4-20a1-42f9-b31f-6056475924f6', f: true }); done = true; } }; })();</script>
+    
+    <!-- Custom -->
     <script type="text/javascript">
     var tpj = jQuery;
     var revapi15;
@@ -135,7 +151,7 @@
                     onHoverStop: "off",
                     arrows: {
                         style: "zeus",
-                        enable: true,
+                        enable: false,
                         hide_onmobile: false,
                         hide_onleave: false,
                         tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',

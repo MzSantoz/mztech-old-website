@@ -466,6 +466,7 @@ position: fixed; z-index: 2; height: 100%; width: 100%; top: 0; left: 0; cursor:
 #header.topbar-dark .mega-menu .menu-links > li.active a { color: #38c2b7; }
 #header.topbar-dark .mega-menu .menu-links { float: left; }
 #header.topbar-dark .mega-menu .menu-links > li > a { line-height: 70px; }
+#header.topbar-dark .mega-menu .menu-links > li > a.active { color: #38c2b7; }
 #header.topbar-dark .mega-menu .row { margin-right: -15px; margin-left: -15px; }
 #header.topbar-dark .mega-menu .menu-links > li:first-child a { padding-left: 0px; }
 #header.topbar-dark .mega-menu .menu-links > li:first-child .drop-down-multilevel a { padding-left: 20px; }
@@ -685,7 +686,10 @@ ul.list-style-icon li span { color: #38c2b7; padding-right: 15px; }
 .newsletter .button { padding: 11px 30px; }
 .newsletter .button:hover { background: #ffffff; color: #38c2b7; border-color: #ffffff; }
 .newsletter.blue-bg { background: #38c2b7; position: relative; z-index: 1; padding-top: 50px; }
-.newsletter.blue-bg:before { background: url(../images/bg-element/03.png) no-repeat 0 0; background-size: 100%; position: absolute; width: 100%; height: 100%; content: ""; top: -120px; }
+.newsletter.blue-bg:before { background: url(../images/bg-element/03.png) no-repeat 0 0; background-size: 100%; position: absolute; width: 100%; height: 100%; content: ""; top: -160px; }
+@media screen and (min-width: 1366px) {
+.newsletter.blue-bg:before { background: url(../images/bg-element/03.png) no-repeat 0 0; background-size: 100%; position: absolute; width: 100%; height: 100%; content: ""; top: -240px; }	
+}
 
 /***************************
 	       Footer
@@ -701,7 +705,7 @@ ul.list-style-icon li span { color: #38c2b7; padding-right: 15px; }
 .footer .footer-nav ul li a:hover { color: rgba(255, 255, 255, 0.65); }
 .footer.footer-topbar .top { margin-bottom: 60px; }
 .footer.footer-topbar hr { margin-bottom: 60px; border-color: #4d6bf5; }
-.footer.footer-topbar .social { float: right; }
+.footer.footer-topbar .social { text-align: center; }
 .footer .social ul { background: #ffffff; display: inline-block; border-radius: 30px; padding: 0px 10px; }
 .footer .social ul li { display: inline-block; }
 .footer .social ul li a { display: block; padding: 0px; text-align: center; display: inline-block; text-align: center; }
@@ -1431,7 +1435,7 @@ textarea.form-control { resize: vertical; }
 .hermes .tp-bullet:hover { background-color: rgba(0, 0, 0, 0.21) }
 .hermes .tp-bullet:after { content: ' '; position: absolute; bottom: 0; height: 0; left: 0; width: 100%; background-color: rgb(255, 255, 255); box-shadow: 0 0 1px rgb(255, 255, 255); -webkit-transition: height 0.3s ease; transition: height 0.3s ease }
 .hermes .tp-bullet.selected:after { height: 100% }
-#rev_slider_15_1 .zeus.tparrows { cursor: pointer; min-width: 70px; min-height: 70px; position: absolute; display: block; z-index: 100; border-radius: 50%; overflow: hidden; background: rgba(32, 70, 242, 0.5) }
+#rev_slider_15_1 .zeus.tparrows { cursor: pointer; min-width: 70px; min-height: 70px; position: absolute; display: block; z-index: 100; border-radius: 50%; overflow: hidden; background: #38c2b7 }
 #rev_slider_15_1 .zeus.tparrows:before { font-family: "revicons"; font-size: 20px; color: rgb(255, 255, 255); display: block; line-height: 70px; text-align: center; z-index: 2; position: relative }
 #rev_slider_15_1 .zeus.tparrows.tp-leftarrow:before { content: "\e824" }
 #rev_slider_15_1 .zeus.tparrows.tp-rightarrow:before { content: "\e825" }
@@ -1472,7 +1476,7 @@ textarea.form-control { resize: vertical; }
          Back to top
 ********************************/
 .back-to-top{position: fixed; bottom:-220px; right:2%; z-index:9999; opacity:1; cursor:pointer;}
-.back-to-top img{width:80px;}
+.back-to-top img{width:40px; margin-right: -15px;}
 .back-to-top.show { bottom:0% !important; -webkit-transition: 1.0s; -moz-transition: 1.0s; transition: 1.0s; }
 .back-to-top.back-run { bottom: 100% !important; -webkit-transition: 1.0s; -moz-transition: 1.0s; transition: 1.0s; }
 .back-to-top.back-down { -webkit-transition: 1.0s; -ms-transition: 1.0s; -o-transition: 1.0s; -moz-transition: 1.0s; transition: 1.0s;}
